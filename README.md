@@ -1,4 +1,4 @@
-# flutter_studio
+# flutter
 
 A new Flutter application.
 
